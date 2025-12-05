@@ -1,0 +1,51 @@
+{
+  "avg_daily_spend_30d": "Average amount the customer spends per day over the last 30 days.",
+  "avg_daily_spend_90d": "Average amount the customer spends per day over the last 90 days.",
+  "current_day": "The current calendar day (1 to 31), used to understand billing cycle timing.",
+  "sim_age_days": "How many days the SIM card has been active.",
+  
+  "avg_main_balance_30d": "Average balance in the customer’s main account over the last 30 days.",
+  "avg_main_balance_90d": "Average balance in the customer’s main account over the last 90 days.",
+  
+  "total_main_recharge_amt_90d": "Total amount recharged into the main balance over the last 90 days.",
+  "median_main_pre_balance_90d": "Median balance before each recharge over the last 90 days.",
+  
+  "total_main_recharge_amt_30d": "Total amount recharged into the main balance over the last 30 days.",
+  "median_pre_balance_30d": "Median balance before each recharge over the last 30 days.",
+  
+  "last_recharge_month": "Month in which the customer last recharged.",
+  
+  "main_recharge_freq_90d": "How many times the customer recharged in the last 90 days.",
+  "main_recharge_freq_30d": "How many times the customer recharged in the last 30 days.",
+  
+  "avg_payback_time_90d": "Average time taken to pay back loans over the last 90 days.",
+  "avg_payback_time_30d": "Average time taken to pay back loans over the last 30 days.",
+  
+  "daily_spend": "The customer’s estimated daily usage-based spending.",
+  "monthly_spend": "The customer’s total spending for the month.",
+  "current_balance": "The customer’s balance at the time of prediction.",
+  
+  "recharge_count_last_month": "How many times the customer topped up in the most recent month.",
+  "recharge_amount_last_month": "Total recharge amount added during the last 30 days.",
+  
+  "late_payment_flag": "Indicates whether the customer previously delayed paying back a loan.",
+  
+  "spend_ratio_30_90": "Ratio comparing spending behaviour between 30-day and 90-day periods.",
+  "recharge_ratio_30_90": "Ratio comparing recharge patterns between 30-day and 90-day periods.",
+  
+  "balance_drop_rate": "Rate at which the customer’s balance decreases after spending events.",
+  "loan_usage_pattern": "Behaviour pattern related to how the customer uses and repays telecom loans.",
+  
+  "high_risk_event_flag": "Flags behaviour patterns historically linked with high delinquency.",
+  "engagement_score": "A score reflecting customer activity, usage, and recharge frequency.",
+  
+  "stability_index": "Score estimating how stable and predictable the customer’s behaviour is.",
+  
+  "month": "Numeric month representing the time period when prediction is made.",
+  
+  "recent_recharge_trend": "Trend line showing whether the customer's recharge frequency is rising or falling.",
+  "recent_spend_trend": "Trend showing if spending is increasing or decreasing.",
+  
+  "long_term_value": "A long-term indicator based on historical revenue and engagement.",
+  "usage_category": "Segments the customer based on their usage pattern for better risk prediction."
+}
